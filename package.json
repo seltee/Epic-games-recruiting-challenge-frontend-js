@@ -14,7 +14,7 @@
     "compression": "^1.7.3",
     "d3-scale": "^2.1.2",
     "express": "^4.16.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "polished": "^2.3.0",
     "query-string": "^6.2.0",
     "react": "^16.6.3",
