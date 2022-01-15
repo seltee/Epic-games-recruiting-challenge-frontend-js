@@ -49,7 +49,7 @@
     "file-loader": "^2.0.0",
     "html-loader": "^0.5.5",
     "markdown-loader": "^4.0.0",
-    "marked": "^0.5.1",
+    "marked": "^4.0.10",
     "nodemon": "^1.18.7",
     "style-loader": "^0.23.1",
     "webpack": "^4.25.1",
